@@ -1,0 +1,96 @@
+﻿What is a "call stack" in programming? Choose from below:
+Method to create a linked-list
+A guessing game
+A LIFO container that stores a program's subroutines, parameters, and local variables
+3
+
+"Rule of Three" dictates what in C++? Choose from below:
+That one should include three header files in their program
+If a copy constructor is explicitly defined than a destructor and copy assignment operator must also be denoted
+2
+
+When using the "new" operator where are you allocating memory? Choose from below:
+Heap
+Stack
+Vector
+Object
+1
+
+For F(n) = n^2 +1, what is the Big-O notation? Choose from below:
+O(log(n))
+O(n)
+O(2^n)
+O(n^2)
+4
+
+Heap and stack are used for the same purposes. Choose from below:
+True
+False
+2
+
+What does STL stand for? Choose from below:
+Systematic Timing Loops
+Short Time Length
+Standard Template Library
+Standard Twitter Library
+3
+
+Does a pointer "point" at an address or value? Choose from below:
+Address
+Value
+Neither
+1
+
+An array can dynamically alter its size. Choose from below:
+Yes
+No
+2
+
+How is ADT (Abstract Data Type) realized in C++? Choose from below:
+Function
+Object
+Class
+Null Pointer
+3
+
+
+
+Why should the analysis of an algorithm be done theoretically? Choose from below:
+To perform a recursion
+For enjoyment
+To estimate efficiency
+3
+
+What is NOT a classification of an algorithm? Choose from below:
+Greedy
+Brute Force
+Divide and Conquer
+Taylor Expansion
+Randomized
+4
+
+What is the value of blue? enum Color {black, white, blue} Choose from below:
+Blue = 0
+Blue = 1
+Blue = 2
+Blue = 3
+3
+
+What does the keyword “extern” mean? Choose from below:
+It is an external constant variable
+The variable definition is in another file
+The function data is external
+It is another word for struct
+2
+
+If the member of a structure is mutable it can be changed. Choose from below:
+True
+False
+1
+
+What is NOT an example of an infinite loop. Choose from below:
+while(1){}
+for(;;){}
+do{}while{0}
+3
+
